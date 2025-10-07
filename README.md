@@ -20,7 +20,7 @@ Classification algorithms tested in this projects:
 - `data_evaluation.ipynb`: Data evaluation set features by their visualisation.
 - `data_preparation.ipynb`: Data preparation for modeling by using techniques like removal of 
 - `data_splitting.ipynb`: Splitting prepared data set into training, validation and testing data sets.
-- `modeling.ipynb` : Training and saving multiple machine learning models.
+- `modeling.ipynb`: Training and saving multiple machine learning models.
 - `model_evaluation.ipynb`: Evaluation of trained models by comparing their various metrics like accuracy, f1 scores and training time.
 
 ### Data files
