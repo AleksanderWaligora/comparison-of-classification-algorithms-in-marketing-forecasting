@@ -1,5 +1,5 @@
 # Comparison of classification algorithms in marketing forecasting
-Data Science project comparing the efficiency of machine learning classification algorithms in forecasting results of bank marketing campaign. This was done by realizing Data Science LLifecycle and training multiple machine learning models on different classification algorithms and comparing them. 
+Data Science project comparing the efficiency of machine learning classification algorithms in forecasting results of bank marketing campaign. This was done by going through various steps of Data Science Lifecycle ,which included training multiple machine learning models on different classification algorithms and comparing them. 
 
 Data set used was obtained from [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/).
 
